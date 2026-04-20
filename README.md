@@ -3,7 +3,7 @@
 This repository provides Python tool for generating commensurate Twisted Bilayer Graphene (TBG) supercell structures. 
 
 It allows you to easily generate atomic coordinates for any twist angle defined by $(n, m)$ indices.
-<img width="977" height="1284" alt="tbg_3_1_structure" src="https://github.com/user-attachments/assets/2ab1a382-64ef-4953-817e-188fb75341ca" />
+<img width="30" height="50" alt="tbg_3_1_structure" src="https://github.com/user-attachments/assets/2ab1a382-64ef-4953-817e-188fb75341ca" />
 
 ## Features
 - **Commensurability Support**: Automatically handles the lattice symmetry conditions (e.g., $(n-m) \mod 3$ conditions).
